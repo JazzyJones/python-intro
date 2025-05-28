@@ -1,0 +1,45 @@
+# Zadanie 4 – Analiza wielokryterialna z użyciem pymcdm
+
+## Opis
+
+Repozytorium zawiera rozwiązanie zadania polegającego na porównaniu metod decyzyjnych TOPSIS i SPOTIS z wykorzystaniem biblioteki `pymcdm` w języku Python. Analiza przeprowadzona została na przykładowych danych decyzyjnych.
+
+---
+
+## Struktura katalogu
+
+- `main.py` – główny skrypt z kodem analizy
+- `raport.md` – raport z wynikami i wnioskami
+- `data/przyklad.csv` – (opcjonalnie) plik z danymi wejściowymi
+- `utils.py` – (opcjonalnie) funkcje pomocnicze
+
+---
+
+## Instalacja
+
+Aby uruchomić projekt, należy posiadać zainstalowanego Pythona (>=3.7).  
+Wymagane biblioteki można zainstalować poleceniem:
+
+pip install pymcdm numpy pandas
+
+---
+
+## Uruchomienie
+
+1. (Opcjonalnie) Umieść plik z danymi w katalogu `data/` lub edytuj dane bezpośrednio w `main.py`.
+2. Uruchom główny skrypt:
+
+python main.py
+
+
+---
+
+## Wyniki
+
+Wyniki analizy oraz krótkie podsumowanie znajdują się w pliku `raport.md`.
+
+---
+
+## Autor
+
+Sławomir Marczyk
