@@ -10,8 +10,6 @@ Repozytorium zawiera rozwiązanie zadania polegającego na porównaniu metod dec
 
 - `main.py` – główny skrypt z kodem analizy
 - `raport.md` – raport z wynikami i wnioskami
-- `data/przyklad.csv` – (opcjonalnie) plik z danymi wejściowymi
-- `utils.py` – (opcjonalnie) funkcje pomocnicze
 
 ---
 
