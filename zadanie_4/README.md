@@ -24,8 +24,7 @@ pip install pymcdm numpy pandas
 
 ## Uruchomienie
 
-1. (Opcjonalnie) Umieść plik z danymi w katalogu `data/` lub edytuj dane bezpośrednio w `main.py`.
-2. Uruchom główny skrypt:
+1. Uruchom główny skrypt:
 
 python main.py
 
